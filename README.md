@@ -26,7 +26,7 @@
 
 ### 💻 Hyperskill:
 
-![Hyperskill](https://github.com/RudachenkoRoman/RudachenkoRoman/assets/97969577/dcd8ba72-9f1b-4086-ac92-7c424506d48e)
+![HS](https://github.com/RudachenkoRoman/RudachenkoRoman/assets/97969577/0a9aa2e9-c9bb-4387-b3be-cd20fdae3362)
 
 ### 💻 Технологии:
 
