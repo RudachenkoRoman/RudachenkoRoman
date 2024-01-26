@@ -22,6 +22,8 @@
 
 ### 💻 Codewars:
 
+[![Codewars](https://img.shields.io/badge/Codewars-RudachenkoRoman-red?logo=codewars)](https://www.codewars.com/users/Rudachenko)
+
 ![codewars](https://www.codewars.com/users/Rudachenko/badges/large)
 
 ### 💻 Hyperskill:
