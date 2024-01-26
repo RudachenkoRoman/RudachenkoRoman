@@ -28,6 +28,8 @@
 
 ### 💻 Hyperskill:
 
+[![JetBrains Academy](https://img.shields.io/badge/JetBrains%20Academy-RudachenkoRoman-blue?logo=jetbrains)](https://hyperskill.org/profile/490988100)
+
 ![HS](https://github.com/RudachenkoRoman/RudachenkoRoman/assets/97969577/0a9aa2e9-c9bb-4387-b3be-cd20fdae3362)
 
 ### 💻 Технологии:
