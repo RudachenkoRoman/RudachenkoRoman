@@ -1,25 +1,6 @@
 
 # Привет, меня зовут Роман!
 
-Я начинающий Android - разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Нетологии, где я прошел курс по Android - разработке. После курса был промежуток в несколько месяцев, где я пробовал себя во многих направлениях, самостоятельно изучал языки Java, Kotlin. С октября 2021 года по июль 2022 я изучал Android - разработку на курсах Нетологии. В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу!
-
-- Завершил курсы по Android разработке Нетологии!
-- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-rudachenkoroman-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/any00way) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kartavjo@gmail.com)
-
-### 🤝 Социальные сети:
-
- <div id="badges">
-    <a href="https://t.me/any00way" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
-
-### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Android - разработчик                               | 10/2021 - 07/2022 |
-
 ### 💻 Codewars:
 
 [![Codewars](https://img.shields.io/badge/Codewars-RudachenkoRoman-red?logo=codewars)](https://www.codewars.com/users/Rudachenko)
